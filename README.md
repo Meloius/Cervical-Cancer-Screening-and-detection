@@ -15,3 +15,8 @@ I mentioned machine vision in the above paragraph. This is the use of devices fo
 2. Documentation -- > Any written or text file ellaborating on the project
 3. Images        -- > Pictures
 4. Model_Code    -- > Crontrol Software
+
+## NB
+- Melo 
+1. There are the designs(initial) i would like you to finish up. Go to images you will find a calla lilly flower.               Somehow i want the design to resemble the flower. The longest side of the design is the head, which i wish it could look like the flower. I will be working on the backside how electronic components fit at the back. After that then we can consider your idea of protection.
+2. Um wondering how far with the computer vision algorithm at your side ???
