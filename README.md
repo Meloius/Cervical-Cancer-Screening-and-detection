@@ -9,3 +9,9 @@ The idea is to have the device connected to a computer, as thus, it will also us
 The device will not replace the doctor, it is a device intended to assist the doctor to be more efficient and help the patients to be treated as soon as possible. 
 
 I mentioned machine vision in the above paragraph. This is the use of devices for optical non – contact sensing to automatically receive and interpret an image or real scene in order to obtain information
+
+## Folders
+1. Designs       -- > SolidWorks CAD Models
+2. Documentation -- > Any written or text file ellaborating on the project
+3. Images        -- > Pictures
+4. Model_Code    -- > Crontrol Software
