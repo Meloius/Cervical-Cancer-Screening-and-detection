@@ -14,7 +14,10 @@ I mentioned machine vision in the above paragraph. This is the use of devices fo
 1. Designs       -- > SolidWorks CAD Models
 2. Documentation -- > Any written or text file ellaborating on the project
 3. Images        -- > Pictures
-4. Model_Code    -- > Crontrol Software
+4. Code    -- > Crontrol Software
+4. Code    -- > Crontrol Software
+5. venv -- > virtual environment for running our code
+6. Business -- > business related stuff e.g Business Model
 
 ## NB
 - Melo 
